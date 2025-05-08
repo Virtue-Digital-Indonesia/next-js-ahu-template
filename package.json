@@ -40,7 +40,7 @@
     "@radix-ui/react-slot": "^1.2.0",
     "@radix-ui/react-toast": "^1.2.11",
     "@uidotdev/usehooks": "^2.4.1",
-    "@virtue-digital-indonesia/ahu-frontend-common": "^1.0.3",
+    "@virtue-digital-indonesia/ahu-frontend-common": "^0.0.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
